@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+}
+.legend {
+    font-weight: bold;
+    font-size: 8pt;
+    margin-bottom: 20px;
+}
+.legend div {
+    padding: 5px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    padding: 8px;
+    border: 1px solid #000;
+    text-align: center;
+}
